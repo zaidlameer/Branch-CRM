@@ -1,4 +1,4 @@
-# BranchSync CRM
+# Branch CRM
 
 A centralized customer registration system designed to replace spreadsheet-based workflows across multiple branches. This project provides role-based access, unified customer data management, and a scalable architecture prepared for future expansion.
 
@@ -47,19 +47,6 @@ A centralized customer registration system designed to replace spreadsheet-based
 ### Deployment (previously hosted)
 
 * **Microsoft Azure**
-
----
-
-## Project Structure
-
-```
-root/
- ├── backend/        # Django project and API
- ├── frontend/       # React application
- ├── docker/         # Docker configs
- ├── docs/           # Documentation (if needed)
- └── docker-compose.yml
-```
 
 ---
 
